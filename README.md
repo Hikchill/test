@@ -2,7 +2,7 @@
 ### ***Hello world!***
 ---
 Больше информации [wikipedia ](https://i.pinimg.com/originals/5b/6e/ca/5b6eca63605bea0eeb48db43f77fa0ce.jpg)
-```
+```python
 my_list = ["leaf", "cherry", "fish"]
 my_list1 = ["D","C","B","A"]
 my_list2 = [1,2,3,4,5]
