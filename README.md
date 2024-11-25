@@ -15,5 +15,3 @@ my_list.sort() # ['cherry', 'fish', 'leaf']
 my_list1.sort() # ['A', 'B', 'C', 'D']
 print(sorted(my_list2, reverse=True)) # [5, 4, 3, 2, 1]
 ```
-
-The background color is `#BDB76B` for light mode and `#FF00FF` for dark mode.
